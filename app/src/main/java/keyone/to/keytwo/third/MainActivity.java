@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_menu1:
                 Toast.makeText(MainActivity.this, "Нажали 1 пункт меню", Toast.LENGTH_SHORT).show();
 
-                Intent i = new Intent(getContext(), layout_settings.class);
+                Intent i = new Intent(this, layout_settings.class);
                 startActivity(i);
 
 
@@ -111,8 +111,6 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private String getContext() {
-    }
 
     // Сохраним текущую позицию (вызывается перед выходом из фрагмента)
     @Override
