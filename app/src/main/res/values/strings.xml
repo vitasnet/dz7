@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">6-7 instruction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user">Глеб Балабанов</string>
+    <string name="user_bd">Родился 14.07.2005</string>
+    <string name="menu_1_txt">Боковое меню 1</string>
+    <string name="menu_2_txt">Боковое меню 2</string>
+    <string name="menu_3_txt">Боковое меню 3</string>
+    <string name="topmenu_1_txt">Меню 1</string>
+    <string name="topmenu_3_txt">О приложени</string>
+    <string name="topmenu_2_txt">Меню 2</string>
+    <string name="date_text">Дата заметки</string>
+    <string name="body_text">Текст заметки</string>
+    <string name="note_name_text">Имя заметки</string>
+    <string name="note_body_btn_txt">Текст заметки</string>
+    <string name="note_list_btn_txt">Список</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_layout_settings">layout_settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
